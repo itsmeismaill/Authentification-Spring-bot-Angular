@@ -1,0 +1,9 @@
+.app-header {
+    background-color: #6c757d;
+    box-shadow: 1px 1px 4px 0 rgba(0, 0, 0, 0.1);
+    position: fixed;
+    width: 100%;
+    z-index: 9999;
+  text-align: center;
+}
+
